@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/FCC-FrontEndCertificate-4-Calculator/static/css/main.5f361e03.chunk.css",
-    "main.js": "/FCC-FrontEndCertificate-4-Calculator/static/js/main.b3cf7823.chunk.js",
-    "main.js.map": "/FCC-FrontEndCertificate-4-Calculator/static/js/main.b3cf7823.chunk.js.map",
+    "main.css": "/FCC-FrontEndCertificate-4-Calculator/static/css/main.183fe300.chunk.css",
+    "main.js": "/FCC-FrontEndCertificate-4-Calculator/static/js/main.ac729fcf.chunk.js",
+    "main.js.map": "/FCC-FrontEndCertificate-4-Calculator/static/js/main.ac729fcf.chunk.js.map",
     "runtime-main.js": "/FCC-FrontEndCertificate-4-Calculator/static/js/runtime-main.cb9c9585.js",
     "runtime-main.js.map": "/FCC-FrontEndCertificate-4-Calculator/static/js/runtime-main.cb9c9585.js.map",
     "static/js/2.afc516b9.chunk.js": "/FCC-FrontEndCertificate-4-Calculator/static/js/2.afc516b9.chunk.js",
     "static/js/2.afc516b9.chunk.js.map": "/FCC-FrontEndCertificate-4-Calculator/static/js/2.afc516b9.chunk.js.map",
     "index.html": "/FCC-FrontEndCertificate-4-Calculator/index.html",
-    "precache-manifest.4685991781697e9bdb208d87cc8270cc.js": "/FCC-FrontEndCertificate-4-Calculator/precache-manifest.4685991781697e9bdb208d87cc8270cc.js",
+    "precache-manifest.1a8bab31e8258c0340a58df776aaf421.js": "/FCC-FrontEndCertificate-4-Calculator/precache-manifest.1a8bab31e8258c0340a58df776aaf421.js",
     "service-worker.js": "/FCC-FrontEndCertificate-4-Calculator/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/FCC-FrontEndCertificate-4-Calculator/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.afc516b9.chunk.js.LICENSE.txt": "/FCC-FrontEndCertificate-4-Calculator/static/js/2.afc516b9.chunk.js.LICENSE.txt"
+    "static/css/main.183fe300.chunk.css.map": "/FCC-FrontEndCertificate-4-Calculator/static/css/main.183fe300.chunk.css.map",
+    "static/js/2.afc516b9.chunk.js.LICENSE.txt": "/FCC-FrontEndCertificate-4-Calculator/static/js/2.afc516b9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FCC-FrontEndCertificate-4-Calculator/static/media/digital-7.1e670d88.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.cb9c9585.js",
     "static/js/2.afc516b9.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b3cf7823.chunk.js"
+    "static/css/main.183fe300.chunk.css",
+    "static/js/main.ac729fcf.chunk.js"
   ]
 }
